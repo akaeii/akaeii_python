@@ -1,0 +1,4 @@
+sychronous: 57.75
+semaphore = 10: 7.00 seconds
+semaphore = 100: 7.43 seconds
+semaphore = 500
